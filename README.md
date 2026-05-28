@@ -99,13 +99,3 @@ Com o desenvolvimento deste projeto, foi possível aplicar na prática conceitos
 A análise mostrou que existe uma grande variação nos custos dos foguetes e também diferenças significativas na quantidade de lançamentos ao longo dos anos.
 
 Além do aprendizado estatístico, o projeto também ajudou no desenvolvimento da organização de código, tratamento de dados e geração de gráficos para interpretação visual das informações.
-
----
-
-# Repositório no GitHub
-
-Adicionar aqui o link do repositório:
-
-```text id="s9x2la"
-https://github.com/seu-usuario/seu-repositorio
-```
